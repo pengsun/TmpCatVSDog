@@ -1,0 +1,3 @@
+[submodule "TmpDog"]
+	path = TmpDog
+	url = https://github.com/pengsun/TmpDog.git
